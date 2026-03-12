@@ -9,6 +9,8 @@ https://mylinuxsite123-bfh2brd6e9ateecv.centralindia-01.azurewebsites.net/
 ## Overview
 This document describes the complete process of deploying a ready-made single HTML file website to Microsoft Azure App Service using the Azure Portal and Kudu File Manager. No CLI or code required.
 
+For getting better idea photos are aslo uploaded follow the steps as well as look into the photograph and get better understanding and clarity about the wholw picture 😁
+
 ## Tools Used
 * Microsoft Azure Portal (portal.azure.com)
 * Azure App Service — Linux, Free F1 Tier
