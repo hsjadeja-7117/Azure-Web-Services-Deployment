@@ -3,6 +3,9 @@
 # Learn how to host a website on Azure's enterprise cloud infrastructure.
 This repository provides a complete, step-by-step guide for deploying a static website (HTML, CSS, and JS) to Azure App Service using the Kudu File Manager.
 
+# Link for the site deployed on azure is below⤵️😃
+https://mylinuxsite123-bfh2brd6e9ateecv.centralindia-01.azurewebsites.net/
+
 ## Overview
 This document describes the complete process of deploying a ready-made single HTML file website to Microsoft Azure App Service using the Azure Portal and Kudu File Manager. No CLI or code required.
 
